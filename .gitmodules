@@ -1,0 +1,3 @@
+[submodule "TextChangeEngine"]
+	path = TextChangeEngine
+	url = https://github.com/stageeve/TextChangeEngine.git
